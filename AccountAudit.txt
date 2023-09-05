@@ -1,0 +1,2 @@
+Email is: user2@example.com  Balance is: 550.0
+Email is: user1@example.com  Balance is: 1050.0
